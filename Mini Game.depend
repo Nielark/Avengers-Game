@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1641806691 source:c:\users\mark daniel\desktop\c++ projects\mini game\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<ctime>
+
+1641808857 source:c:\users\mark daniel\onedrive\desktop\c++ projects\mini game\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<windows.h>
+	<ctime>
+
